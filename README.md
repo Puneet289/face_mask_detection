@@ -1,4 +1,4 @@
 # face_mask_detection
 The model takes input from the live camera and detects whether the person is wearing face mask or not and mentions it around the face using face detection algorithm.
 The project can be used in tough scenarios like those prevailing today (where mask is mandatory) at public places to detect and punish the people not wearing masks.
-The training dataset of the model can be found [at](https://data-flair.s3.ap-south-1.amazonaws.com/Data-Science-Data/face-mask-dataset.zip)
+The training dataset of the model can be found [here](https://data-flair.s3.ap-south-1.amazonaws.com/Data-Science-Data/face-mask-dataset.zip)
